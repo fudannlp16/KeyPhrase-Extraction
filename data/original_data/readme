@@ -1,0 +1,4 @@
+trnTweet和testTweet为原始数据
+testTweet 33755
+trainTweet 78760
+每一行为tweet和其对应的hashtag,tweet和hashtag以\t隔开
