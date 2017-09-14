@@ -2,8 +2,7 @@
 Source codes of our EMNLP2016 paper [Keyphrase Extraction Using Deep Recurrent Neural Networks on Twitter](http://jkx.fudan.edu.cn/~qzhang/paper/keyphrase.emnlp2016.pdf)
 
 ## Preparation
-You need to prepare a training corpus and the pre-trained word vectors.
-* Training corpus. Download [here]().
+You need to prepare  the pre-trained word vectors.
 * Pre-trained word vectors. Download [GoogleNews-vectors-negative300.bin.gz](https://code.google.com/archive/p/word2vec/)
 
 
